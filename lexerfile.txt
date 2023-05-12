@@ -1,0 +1,11 @@
+while a > 2
+    b := 1
+if b > 3 then
+    b := 2
+for i from 0 to 2
+    b := 3
+functionCall 1 + 1 , var variable
+variables numberOfCards : integer from 0 to 52
+variables stringVar : string from 1 to 26
+variables realVar : real from 1.5 to 2
+
